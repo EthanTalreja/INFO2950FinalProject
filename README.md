@@ -1,1 +1,1 @@
-# INFO2950FinalProject- Howdy Partner
+# INFO 2950 Final Project
